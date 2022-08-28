@@ -14,7 +14,7 @@ function Navbar() {
                 <li>Home</li>
                 <li>About</li>
                 <li>Experience</li>
-                <li>Work</li>
+                <li>Projects</li>
                 <li>Contact</li>
             </ul>
 
@@ -26,7 +26,7 @@ function Navbar() {
             <li className='py-6 text-4xl'>Home</li>
             <li className='py-6 text-4xl'>About</li>
             <li className='py-6 text-4xl'>Skills</li>
-            <li className='py-6 text-4xl'>Work</li>
+            <li className='py-6 text-4xl'>Projects</li>
             <li className='py-6 text-4xl'>Contact</li>
         </ul>
 
