@@ -6,7 +6,7 @@ function About() {
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                 <div className='sm:text-right pb-8 pl-4'>
-                    <p className='text-4xl font-bold inline border-b-4 border-pink-400'>About</p>
+                    <p className='text-4xl font-bold inline border-b-4 border-[#66D3FA]'>About</p>
                 </div>
                 <div></div>
                 </div>
@@ -15,13 +15,15 @@ function About() {
                     <p>Hi. I'm Bunyamin, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                    molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                    numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-                    optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
-                    obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
-                    nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
-                    tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,</p>
+                    <p>I’m a Full Stack Developer located in Belgium.
+                        I have a serious passion for building web pages from scratch.
+                    </p>
+                    <br/>
+                    <p>Teamwork person. Problem solver, good observer and flexible
+                    </p>
+                    <br/>
+                    <p>Interested in ambitious projects with positive people.
+                    </p>
                 </div>
             </div>
         </div>
