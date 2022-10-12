@@ -5,6 +5,9 @@ import javascript from '../assests/javascript.png'
 import react from '../assests/react.png'
 import Tailwind from '../assests/tailwind.png'
 import Github from '../assests/github.png'
+import Laravel from '../assests/Laravel.png'
+import Php from '../assests/Php.png'
+import Git from '../assests/Git.png'
 
 
 function Skills() {
@@ -38,8 +41,16 @@ function Skills() {
               <p className='my-4'>TAILWIND</p>
             </div>
             <div className='shadow-md shadow-[#050c16] hover:scale-110 duration-500'>
-              <img className='w-20 mx-auto' src={Github} alt="GITHUB icon" />
-              <p className='my-4'>GITHUB</p>
+              <img className='w-20 mx-auto' src={Git} alt="GITHUB icon" />
+              <p className='my-4'>GIT</p>
+            </div>
+            <div className='shadow-md shadow-[#050c16] hover:scale-110 duration-500'>
+              <img className='w-20 mx-auto' src={Php} alt="GITHUB icon" />
+              <p className='my-4'>PHP</p>
+            </div>
+            <div className='shadow-md shadow-[#050c16] hover:scale-110 duration-500'>
+              <img className='w-20 mx-auto' src={Laravel} alt="GITHUB icon" />
+              <p className='my-4'>Laravel</p>
             </div>
           </div>
         </div>
